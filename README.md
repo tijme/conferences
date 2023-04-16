@@ -1,13 +1,8 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/tijme/conferences/master/.github/logo.svg" width="350"/>
+    <img src="https://gist.githubusercontent.com/tijme/9da70be6e4628e43943e84d8a3b24c79/raw/b73c9e5fbf36122394481f15eff27778562eb04c/logo.svg" width="450"/>
 </p>
 <p align="center">
-    <a href="https://github.com/tijme/conferences/blob/master/LICENSE.md"><img src="https://raw.finnwea.com/shield/?firstText=Source&secondText=Licensed" /></a>
-    <br/>
-    <b>Some of the presentations, workshops, and labs I gave at public conferences.</b>
-    <br/>
-    <sup>Made by <a href="https://www.linkedin.com/in/tijme/">Tijme</a>.</sup>
-    <br/>
+    <a href="https://github.com/tijme/conferences/blob/master/LICENSE.md"><img src="https://raw.finnwea.com/shield/?firstText=Content&secondText=Licensed" /></a>
 </p>
 
 ## Table of Contents
