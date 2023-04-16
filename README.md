@@ -1,8 +1,5 @@
-<p align="center">
+<p align="left">
     <img src="https://gist.githubusercontent.com/tijme/9da70be6e4628e43943e84d8a3b24c79/raw/b73c9e5fbf36122394481f15eff27778562eb04c/logo.svg" width="450"/>
-</p>
-<p align="center">
-    <a href="https://github.com/tijme/conferences/blob/master/LICENSE.md"><img src="https://raw.finnwea.com/shield/?firstText=Content&secondText=Licensed" /></a>
 </p>
 
 ## Table of Contents
