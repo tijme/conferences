@@ -10,6 +10,11 @@
     <br/>
 </p>
 
+## Table of Contents
+
+* 2023-04 Hack in the Box: [Developing Malicious Kernel Drivers](https://github.com/tijme/conferences/tree/master/2023-04%20Hack%20in%20the%20Box)
+* 2022-09 Bitwarden Vault Hours: [Multi-Factor Authentication (and its common misconception)](https://github.com/tijme/conferences/tree/master/2022-09%20Bitwarden%20Vault%20Hours)
+
 ## Issues
 
 Issues can be reported via the [issue tracker](https://github.com/tijme/conferences/issues). Please make sure your issue has not yet been reported by anyone else before submitting a new one.
