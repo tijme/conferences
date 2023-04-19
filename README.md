@@ -1,5 +1,5 @@
 <p align="left">
-    <img src="https://gist.githubusercontent.com/tijme/9da70be6e4628e43943e84d8a3b24c79/raw/b73c9e5fbf36122394481f15eff27778562eb04c/logo.svg" width="450"/>
+    <img src="https://gist.githubusercontent.com/tijme/9da70be6e4628e43943e84d8a3b24c79/raw/f7a3fa8fe6abe881d5e16a3a9de6497d604bc479/logo.svg" width="450"/>
 </p>
 
 ## Table of Contents
