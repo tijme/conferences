@@ -6,6 +6,7 @@
 
 * 2023-12 BSIDES London: [Elevate & Conquer - A Journey into Kernel Privilege Escalation - A Zero-Day Tale](https://github.com/tijme/conferences/tree/master/2023-12%20BSIDES%20London)
 * 2023-04 Hack in the Box: [Developing Malicious Kernel Drivers](https://github.com/tijme/conferences/tree/master/2023-04%20Hack%20in%20the%20Box)
+* 2022-10 SECCON NL: [This is why you will fail](https://github.com/tijme/conferences/tree/master/2022-10%20SECCON%20NL)
 * 2022-09 Bitwarden Vault Hours: [Multi-Factor Authentication (and its common misconception)](https://github.com/tijme/conferences/tree/master/2022-09%20Bitwarden%20Vault%20Hours)
 
 ## Issues

@@ -8,7 +8,7 @@ The talk is accompanied by the first-hand public release of the exploit, in the 
 
 # Recording
 
-Not (yet) available.
+[https://www.youtube.com/watch?v=hmYK5yoR6UI](https://www.youtube.com/watch?v=hmYK5yoR6UI)
 
 # Link
 
