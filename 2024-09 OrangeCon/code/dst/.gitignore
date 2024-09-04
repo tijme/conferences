@@ -1,0 +1,7 @@
+# .gitignore sample
+# Ignore all files in this dir...
+*
+
+# Except for GitIgnore and distributed files
+!.gitignore
+!*.exe
