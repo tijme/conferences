@@ -10,7 +10,7 @@ Lastly, I demo the exploitation of UAC through COM, and I share the code so you 
 
 # Recording
 
-Not available.
+[https://www.youtube.com/watch?v=481SI_HWlLs](https://www.youtube.com/watch?v=481SI_HWlLs)
 
 # Link
 
