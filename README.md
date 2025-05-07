@@ -4,6 +4,8 @@
 
 ## Table of Contents
 
+* 2025-04 Black Hat: [Kong Loader - The hidden ART of rolling shellcode decryption](https://github.com/tijme/conferences/tree/master/2025-04%20Black%20Hat)
+* 2025-03 Nullcon: [The hidden ART of rolling shellcode decryption](https://github.com/tijme/conferences/tree/master/2025-03%20Nullcon)
 * 2024-09 OrangeCon: [Elevate Your Skills - From COM object fundamentals to UAC bypasses](https://github.com/tijme/conferences/tree/master/2024-09%20OrangeCon)
 * 2023-12 BSIDES London: [Elevate & Conquer - A Journey into Kernel Privilege Escalation - A Zero-Day Tale](https://github.com/tijme/conferences/tree/master/2023-12%20BSIDES%20London)
 * 2023-04 Hack in the Box: [Developing Malicious Kernel Drivers](https://github.com/tijme/conferences/tree/master/2023-04%20Hack%20in%20the%20Box)
@@ -16,4 +18,4 @@ Issues can be reported via the [issue tracker](https://github.com/tijme/conferen
 
 ## License
 
-Copyright (c) 2024 Tijme Gommers. All rights reserved. View [LICENSE.md](https://github.com/tijme/conferences/blob/master/LICENSE.md) for the full license.
+Copyright (c) 2025 Tijme Gommers. All rights reserved. View [LICENSE.md](https://github.com/tijme/conferences/blob/master/LICENSE.md) for the full license.
