@@ -8,7 +8,7 @@ It comes with dangerous benefits for offensive security experts, and with new co
 
 # Recording
 
-Not available.
+[https://www.youtube.com/watch?v=K3OY-ZNmMxo](https://www.youtube.com/watch?v=K3OY-ZNmMxo)
 
 # Link
 
