@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+* 2025-09 OrangeCon: [In Memory of In-Memory Detection](https://github.com/tijme/conferences/tree/master/2025-09%20OrangeCon)
 * 2025-04 Black Hat: [Kong Loader - The hidden ART of rolling shellcode decryption](https://github.com/tijme/conferences/tree/master/2025-04%20Black%20Hat)
 * 2025-03 Nullcon: [The hidden ART of rolling shellcode decryption](https://github.com/tijme/conferences/tree/master/2025-03%20Nullcon)
 * 2024-09 OrangeCon: [Elevate Your Skills - From COM object fundamentals to UAC bypasses](https://github.com/tijme/conferences/tree/master/2024-09%20OrangeCon)
