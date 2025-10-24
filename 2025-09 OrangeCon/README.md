@@ -8,7 +8,7 @@ As the icing on the cake, I publish such a practical implementation: Dittobytes.
 
 # Recording
 
-Not available.
+[https://www.youtube.com/watch?v=9tCT2ItbPD4](https://www.youtube.com/watch?v=9tCT2ItbPD4)
 
 # Link
 
